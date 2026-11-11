@@ -1,0 +1,3 @@
+i am learning git amend command
+i have added second line
+i have added third line
